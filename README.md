@@ -1,3 +1,18 @@
+## 【中国VPN排行】最好用的VPN推荐与测评(2022年)
+
+
+### 补充：测评更新比较慢，大家优先看排行榜：
+
+|  梯子排行榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Ivacy梯子 | 👍👍👍👍👍 | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxianab&data2=bestcnvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxianab/bestcnvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxianab&data2=bestcnvpn) |
+| Nord梯子 | 👍👍👍👍 | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxianab&aff_click_id=bestcnvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=gitgitwuxianab&aff_sub=gitwuxianab&aff_sub2=bestcnvpn) | - |
+| Express梯子 | 👍👍👍👍 | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=bestcnvpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=bestcnvpn) | [备用网址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=gitgitwuxianab&data1=bestcnvpn) |
+| 熊猫梯子 | 👍👍👍 | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+ | Strong梯子 | 👍👍👍 | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitgitwuxianab&data2=bestcnvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitgitwuxianab&data2=bestcnvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitgitwuxianab&data2=bestcnvpn) |
+
+---
+
 <div class="gb-container gb-container-4b3ebfac"><div class="gb-inside-container">
 <h1 class="gb-headline gb-headline-293e93ff gb-headline-text">【中国VPN排行】最好用的VPN推荐与测评(2022年2月)</h1>
 <div class="gb-container gb-container-b7701407 inline-post-meta-area"><div class="gb-inside-container">
@@ -194,3 +209,16 @@
 </div>
 </div>
 </div>
+
+
+---
+
+### 国内VPN梯子排行榜：
+
+|  梯子排行榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Ivacy梯子 | 👍👍👍👍👍 | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxianab&data2=bestcnvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxianab/bestcnvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxianab&data2=bestcnvpn) |
+| Nord梯子 | 👍👍👍👍 | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxianab&aff_click_id=bestcnvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=gitgitwuxianab&aff_sub=gitwuxianab&aff_sub2=bestcnvpn) | - |
+| Express梯子 | 👍👍👍👍 | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=bestcnvpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=bestcnvpn) | [备用网址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=gitgitwuxianab&data1=bestcnvpn) |
+| 熊猫梯子 | 👍👍👍 | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+ | Strong梯子 | 👍👍👍 | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitgitwuxianab&data2=bestcnvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitgitwuxianab&data2=bestcnvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitgitwuxianab&data2=bestcnvpn) |
