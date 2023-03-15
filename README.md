@@ -31,7 +31,7 @@
 <p>因此我绝对不推荐大家去购买国内VPN。像这款VPN一样，我们不知道他们到底是出现了财务危机，还是被拉去喝茶了，但最终结果就是会员费打水漂了。</p>
 <p>而国外VPN则完全不会存在这种问题。首先他们不受中国法律约束。其次，他们都具有至少30天的退款保证，而且国外商家是出了名的讲信用。即便无法在中国使用，也能轻松获得退款，可以无风险试用。</p>
 <p>如果你身在海外想访问中国大陆网站获得中国VPN服务器，请跳转到有关<a href="/into-china/">翻墙回国</a>的内容。如果你不想读完整篇文章，可以参考以下我们推荐的好用的中国VPN排行，文后还有更详细的VPN测评：</p>
-<h3 id="1-expressvpn-速度最快的vpn中国首选">1. <a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=bestcnvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 速度最快的VPN中国首选</h3>
+<h3 id="1-expressvpn-速度最快的vpn中国首选">1. <a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=wuxianab&subId2=bestcnvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 速度最快的VPN中国首选</h3>
 <div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://qiangup.com/wp-content/uploads/2021/12/expressvpn-logo.png" alt="expressvpn logo" class="wp-image-2355" width="256" height="68" srcset="https://qiangup.com/wp-content/uploads/2021/12/expressvpn-logo.png 320w, https://qiangup.com/wp-content/uploads/2021/12/expressvpn-logo-300x80.png 300w" sizes="(max-width: 256px) 100vw, 256px" /></figure></div>
 <div class="purple-bar-back"><p>已经运营了超过11年，一直为中国用户提供优质的翻墙服务，是值得推荐的稳定且速度快的VPN，在我们推荐的VPN排行榜中名列前茅。其自行研发的LightWay协议相比传统VPN好用，也有更高的伪装性。<br><br>在全球部94国家/地区署有VPN服务器，其中包括香港、台湾、美国、新加坡等地。拆分隧道(Split Tunneling)可以允许根据不同网站和应用程序选择性上网，这样极大地方便了同时访问国外和中国网站。ExpressVPN支持相当多的设备，其中包括安卓、苹果手机设备，Mac和Windows电脑PC等，甚至是Linux或者安卓电视也可以适配。</p></div>
 <hr>
