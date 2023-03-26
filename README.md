@@ -24,10 +24,9 @@
 
 |  梯子排行榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Ivacy梯子 | 👍👍👍👍👍 | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxianab&data2=bestcnvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxianab/bestcnvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxianab&data2=bestcnvpn) |
-| Nord梯子 | 👍👍👍👍 | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxianab&aff_click_id=bestcnvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=2gitwuxianab&aff_sub=2gitwuxianab&aff_sub2=bestcnvpn) | - |
+| Nord梯子 | 👍👍👍👍👍 | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxianab&aff_click_id=bestcnvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=2gitwuxianab&aff_sub=2gitwuxianab&aff_sub2=bestcnvpn) | - |
 | Express梯子 | ⭐⭐⭐⭐ | [Express官方网址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2wuxianab&subId2=bestcnvpn) | - | - |
-
+| Ivacy梯子 | 👍👍👍 | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxianab&data2=bestcnvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxianab/bestcnvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxianab&data2=bestcnvpn) |
 ---
 
 <div class="gb-container gb-container-4b3ebfac"><div class="gb-inside-container">
