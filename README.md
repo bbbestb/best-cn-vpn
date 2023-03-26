@@ -24,8 +24,8 @@
 
 |  梯子排行榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Ivacy梯子 | 👍👍👍👍👍 | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxianab&data2=bestcnvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxianab/bestcnvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitwuxianab&data2=bestcnvpn) |
-| Nord梯子 | 👍👍👍👍 | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxianab&aff_click_id=bestcnvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=gitgitwuxianab&aff_sub=gitwuxianab&aff_sub2=bestcnvpn) | - |
+| Ivacy梯子 | 👍👍👍👍👍 | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2gitwuxianab&data2=bestcnvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitwuxianab/bestcnvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2gitwuxianab&data2=bestcnvpn) |
+| Nord梯子 | 👍👍👍👍 | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2gitwuxianab&aff_click_id=bestcnvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=2gitwuxianab&aff_sub=2gitwuxianab&aff_sub2=bestcnvpn) | - |
 | Express梯子 | ⭐⭐⭐⭐ | [Express官方网址](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2wuxianab&subId2=bestcnvpn) | - | - |
 
 ---
@@ -49,12 +49,12 @@
 <p>因此我绝对不推荐大家去购买国内VPN。像这款VPN一样，我们不知道他们到底是出现了财务危机，还是被拉去喝茶了，但最终结果就是会员费打水漂了。</p>
 <p>而国外VPN则完全不会存在这种问题。首先他们不受中国法律约束。其次，他们都具有至少30天的退款保证，而且国外商家是出了名的讲信用。即便无法在中国使用，也能轻松获得退款，可以无风险试用。</p>
 <p>如果你身在海外想访问中国大陆网站获得中国VPN服务器，请跳转到有关<a href="/into-china/">翻墙回国</a>的内容。如果你不想读完整篇文章，可以参考以下我们推荐的好用的中国VPN排行，文后还有更详细的VPN测评：</p>
-<h3 id="1-expressvpn-速度最快的vpn中国首选">1. <a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=wuxianab&subId2=bestcnvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 速度最快的VPN中国首选</h3>
+<h3 id="1-expressvpn-速度最快的vpn中国首选">1. <a href="https://go.expressvpn.com/c/4034381/1608823/16063?subId1=2gitwuxianab&subId2=bestcnvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 速度最快的VPN中国首选</h3>
 <div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://qiangup.com/wp-content/uploads/2021/12/expressvpn-logo.png" alt="expressvpn logo" class="wp-image-2355" width="256" height="68" srcset="https://qiangup.com/wp-content/uploads/2021/12/expressvpn-logo.png 320w, https://qiangup.com/wp-content/uploads/2021/12/expressvpn-logo-300x80.png 300w" sizes="(max-width: 256px) 100vw, 256px" /></figure></div>
 <div class="purple-bar-back"><p>已经运营了超过11年，一直为中国用户提供优质的翻墙服务，是值得推荐的稳定且速度快的VPN，在我们推荐的VPN排行榜中名列前茅。其自行研发的LightWay协议相比传统VPN好用，也有更高的伪装性。<br><br>在全球部94国家/地区署有VPN服务器，其中包括香港、台湾、美国、新加坡等地。拆分隧道(Split Tunneling)可以允许根据不同网站和应用程序选择性上网，这样极大地方便了同时访问国外和中国网站。ExpressVPN支持相当多的设备，其中包括安卓、苹果手机设备，Mac和Windows电脑PC等，甚至是Linux或者安卓电视也可以适配。</p></div>
 
 <hr>
-<h3 id="2-purevpn-便宜性价比高的vpn">3. <a href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitgitwuxianab&data2=bestcnvpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 便宜性价比高的VPN</h3>
+<h3 id="2-purevpn-便宜性价比高的vpn">3. <a href="https://billing.purevpn.com/aff.php?aff=42611&data1=2gitwuxianab&data2=bestcnvpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 便宜性价比高的VPN</h3>
 <div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img loading="lazy" src="https://qiangup.com/wp-content/uploads/2021/12/purevpn-logo.png" alt="purevpn logo" class="wp-image-2358" width="205" height="68" srcset="https://qiangup.com/wp-content/uploads/2021/12/purevpn-logo.png 512w, https://qiangup.com/wp-content/uploads/2021/12/purevpn-logo-300x100.png 300w" sizes="(max-width: 205px) 100vw, 205px" /></figure></div>
 <div class="purple-bar-back"><p>早年间PureVPN公司注册在香港，所以对中国大陆用户相当重视，也非常熟悉中国用户的需求，官网的中文支持也非常友好。由于顾及用户隐私的原因已经迁出香港，但依然没有忘记中国市场。<br><br>PureVPN还提供上海、北京等中国内地的IP节点，因此也是海外华人和留学生翻墙回国的VPN选择。它的应用程序简单好用，尤其在PC电脑电脑上连接速度快，推荐的VPN节点有台湾、香港等低延迟节点，可以用来玩一些国外游戏。</p></div>
 <hr>
