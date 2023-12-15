@@ -1,4 +1,4 @@
-# [🟠🟡🟢🔵 10年经验老铁测评，点击查看攻略，拒绝跑路VPN！](https://cntizi1.com/?gitwuxianab-bestcnvpn-desc)
+# [🟠🟡🟢🔵 点击查看攻略，拒绝跑路VPN！](https://cntizi1.com/?gitwuxianab-bestcnvpn-desc)
 
 <!DOCTYPE html>
 <html>
